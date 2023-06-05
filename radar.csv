@@ -61,6 +61,7 @@ YugabyteDB,A l'étude,Plateformes et middleware,FAUX,"<a href=""https://wiki.net
 Offre de stockage objets sur Cloud Public - OVH,Déprécié,Plateformes et middleware,FAUX,"<a href=""https://wiki.net-courrier.extra.laposte.fr/confluence/display/RFLX/SO-84+Offre+de+Cloud+Public+-+OVH"">Fiche #Reflex</a>"
 Offre de stockage objets sur ITaaS,Standard,Plateformes et middleware,FAUX,"<a href=""https://wiki.net-courrier.extra.laposte.fr/confluence/display/RFLX/SO-88+Offre+de+Stockage+Objets+sur+ITaaS"">Fiche #Reflex</a>"
 Offre de stockage standard,Standard,Plateformes et middleware,FALSE,"<a href=""https://wiki.net.extra.laposte.fr/confluence/display/RFLX/SO-87+Offre+de+stockage+standard"">Fiche #Reflex</a>"
+Offre de stockage objets Panama,Standard,Plateformes et middleware,TRUE,"<a href=""https://wiki.net.extra.laposte.fr/confluence/display/RFLX/SO-98+Offre+de+Stockage+Objets+Panama"">Fiche #Reflex</a>"
 GlusterFS,Standard,Plateformes et middleware,FALSE,"<a href=""https://wiki.net-courrier.extra.laposte.fr/confluence/display/RFLX/SO-85+GlusterFS"">Fiche #Reflex</a>"
 Okoro,Standard,Plateformes et middleware,FALSE,"<a href=""https://wiki.net-courrier.extra.laposte.fr/confluence/display/RFLX/SO-86+Okoro"">Fiche #Reflex</a>"
 Vault,Candidat,Plateformes et middleware,FALSE,"<a href=""https://wiki.net-courrier.extra.laposte.fr/confluence/display/RFLX/SO-91+Vault"">Fiche #Reflex</a>"
