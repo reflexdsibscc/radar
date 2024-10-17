@@ -86,6 +86,7 @@ SUEZ,Standard,Plateformes et middleware,FALSE,"<a href=""https://wiki.net-courri
 SEID,Déprécié,Plateformes et middleware,FALSE,"<a href=""https://wiki.net-courrier.extra.laposte.fr/confluence/pages/viewpage.action?pageId=259523751"">Fiche #Reflex</a>"
 Transfert de fichiers ITaaS,Standard,Plateformes et middleware,FALSE,"<a href=""https://wiki.net-courrier.extra.laposte.fr/confluence/display/RFLX/SO-75+Transfert+de+fichier+ITaaS"">Fiche #Reflex</a>"
 xBIP-BIP,Standard,Plateformes et middleware,FALSE,"<a href=""https://wiki.net-courrier.extra.laposte.fr/confluence/pages/viewpage.action?pageId=259523759"">Fiche #Reflex</a>"
+xGATE,Standard,Plateformes et middleware,TRUE,"<a href=""https://wiki.net.extra.laposte.fr/confluence/display/RFLX/SO-109+xGATE"">Fiche #Reflex</a>"
 Active MQ,Standard,Plateformes et middleware,FALSE,"<a href=""https://wiki.net-courrier.extra.laposte.fr/confluence/display/RFLX/SO-36+Active+MQ"">Fiche #Reflex</a>"
 Cache Applicatif,Standard,modèles d'architecture et méthodologies,FALSE,"<a href=""https://wiki.net-courrier.extra.laposte.fr/confluence/display/RFLX/MA-21+Cache+Applicatif"">Fiche #Reflex</a>"
 Circuit Breaker,Standard,modèles d'architecture et méthodologies,FALSE,"<a href=""https://wiki.net-courrier.extra.laposte.fr/confluence/display/RFLX/MA-20+Circuit+Breaker"">Fiche #Reflex</a>"
